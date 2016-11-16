@@ -1,5 +1,5 @@
 body {
-    color: lightsteelblue;
+    background: lightsteelblue;
 }
 
 h1 {
@@ -9,3 +9,4 @@ h1 {
 h3 {
     position: fixed;
 }
+
