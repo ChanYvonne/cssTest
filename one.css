@@ -1,12 +1,36 @@
 body {
-    background: lightsteelblue;
+    background: #99E1D9;
 }
 
 h1 {
-    color: green;
+    color: #F06543;
+    text-align: center;
 }
 
 h3 {
-    position: fixed;
+    text-align: center;
+    color: #D3F57D;
 }
 
+ul {
+    background: #F45087;
+    font-size: 2em;
+    padding: 10px;
+}
+
+ul li {
+    background: #FFE5E5;
+    text-align: center;
+    margin: 20px;
+}
+
+h2 {
+    color: #F45087;
+    font-style: oblique;
+}
+
+p {
+    color: #F06543;
+    font-size: 2em;
+    font-style: italic;
+}
