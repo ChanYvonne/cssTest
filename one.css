@@ -44,5 +44,22 @@ p {
 }
 
 .navzone {
+    font-family: "Times New Roman", Times, Serif;
+}
 
+#tehlulz {
+    text-transform: uppercase;
+}
+
+.content {
+    text-decoration: underline;
+}
+
+.prose {
+    font-weight: bold;
+}
+
+.extreme {
+    font-size: 2em;
+    color: #F06453;
 }

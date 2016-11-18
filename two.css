@@ -40,3 +40,32 @@ ul li {
     margin: 20px;
 }
 
+.extreme {
+    word-spacing: 10px;
+}
+
+#head1 {
+    text-decoration: underline;
+}
+
+.navzone {
+    font-family: "Courier New", Courier, monospace;
+}
+
+#tehlulz {
+    font-style: oblique;
+}
+
+.content {
+     border: 3px solid purple;
+}
+
+.prose {
+    margin: 20px;
+}
+
+.extreme {
+    font-size: 2em;
+    color: #FE8D00;
+    font-weight: bold;
+}
