@@ -1,15 +1,74 @@
 body {
-    background: lightsteelblue;
-}
-
-a: hover{
-
+    background: linear-gradient(to right, #944654, #A05C7B, #AF90A9);
 }
 
 .random {
-    linear-gradient:
+    color: #DEE7E7;
+    text-align: center;
+    font-size: 2em;
 }
 
-a {
-    
+#lies {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    color: #B2F7EF;
 }
+
+ul {
+    list-style-type: none;
+    background-color: #B7ADCF;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 100%;
+    font-family: Arial, sans-serif;
+}
+
+a:link {
+    float: left;
+    padding-right: 100px;
+    font-size: 2em;
+    text-decoration: none;
+    color: #564592;
+}
+
+a:visited {
+    color: #564592;
+}
+
+li a:hover{
+    background-color: #EFD5C3;
+}
+
+.navbar {
+    text-align: center;
+    font-weight: bold;
+    text-align: center;
+    color: #2A2B2E;
+}
+
+.content {
+    border: 3px solid #86BBD8;
+    border-radius: 5px;
+    text-align: center;
+    color: #D9DCD6;
+}
+
+.prose {
+    text-align: left;
+    padding: 10px;
+}
+
+#simpsons {
+    font-family: Verdana, sans-serif; 
+}
+
+#starwars {
+    font-family: "Courier New", Courier, monospace; 
+}
+
+#doctorwho {
+    font-family: "Lucida Console", Lucida, monospace; 
+}
+
